@@ -2,12 +2,12 @@
 
 ## Clonning
 
-    ``` git clone https://github.com/Besufikad17/Mdummy.git ```
+``` git clone https://github.com/Besufikad17/Mdummy.git ```
 
 ## Installing dependecies
 
-    ``` pip install -r requirements.txt ```
+``` pip install -r requirements.txt ```
 
 ## Running 
 
-    ``` python main.py ```
+``` python main.py ```
